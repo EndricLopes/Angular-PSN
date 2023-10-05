@@ -1,6 +1,6 @@
-# Store
+# Replica PSN
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+#[Clique aqui para ver o site!!!](https://angular-psn-seven.vercel.app/)
 
 ## Development server
 
